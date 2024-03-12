@@ -1,6 +1,6 @@
 # Usando FastAPI
 
-Este proyecto utiliza FastAPI, un marco moderno de Python para la creación de APIs web de alto rendimiento.
+Este proyecto utiliza FastAPI de Python
 
 ## Instalación
 
